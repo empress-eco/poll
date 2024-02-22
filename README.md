@@ -1,10 +1,13 @@
-# ![Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png Poll: Simplified Decision-Making
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 Welcome to Poll, your go-to platform for effortless online polling that simplifies consensus gathering and decision-making. This application is ideal for team leaders, community managers, or anyone in need of streamlined decision-making processes. 
 
-- [Explore the Documentation](https://empress.eco/)
-- [Report a Bug](https://github.com/empress-eco/poll/issues)
-- [Request a Feature](https://github.com/empress-eco/poll/issues)
+[Explore the Documentation](https://empress.eco/) | [Report a Bug](https://github.com/empress-eco/poll/issues) | [Request a Feature](https://github.com/empress-eco/poll/issues)
+
+</div>
+
 
 ## About The Project
 
